@@ -1,0 +1,6 @@
+type,description
+1,ATM withdrawal
+2,Transfer in
+3,Transfer out
+4,Direct Debit
+5,Cash deposit
