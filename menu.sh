@@ -36,6 +36,12 @@ menuOptionFive() {
      ./maxmin.sh
 }
 
+menuOptionSix() {
+	 echo "Filter Files"
+	 cd test
+	 ./testcript.sh $comparison
+}
+
 incorrectSelection() {
      echo "Incorrect Option. Try again"
 }
@@ -46,7 +52,6 @@ pressEnter() {
      read
      clear
 }
-
 until ["$selection" = "0"]; do
 	clear
 	echo "		Menu"
@@ -55,6 +60,7 @@ until ["$selection" = "0"]; do
 	echo "	3 - Trades Dataset"
 	echo "	4 - Bank Dataset"
 	echo "	5 - Football Stats"
+	echo "	6 - Filter Files"
 	echo "	0 - Exit"
 	echo ""
 	echo -n " Enter Menu Option "
@@ -66,6 +72,7 @@ until ["$selection" = "0"]; do
 	    3) clear; menuOptionThree; pressEnter;;
 	    4) clear; menuOptionFour; pressEnter;;
 	    5) clear; menuOptionFive; pressEnter;;
+		 6) clear; menuOptionSix; pressEnter;;
 	    0) clear; exit;;
 	    *) clear; incorrectSelection; pressEnter;;
 	esac
