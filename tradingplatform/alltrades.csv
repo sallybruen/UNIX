@@ -1,0 +1,72 @@
+trade_id,name,name(symbol),first_name last_name,stock_ex_id,transaction_time,share_amount
+71,Google,Dollar($),John Smith,3,2021-01-18,20000
+70,The New York Times,Dollar($),John Smith,3,2021-01-15,4223
+69,Google,Dollar($),John Smith,3,2021-01-13,150
+68,Tesco,British Pence(p),John Smith,1,2021-01-07,854
+67,The New York Times,Dollar($),John Smith,3,2021-01-05,5000
+66,Google,Dollar($),John Smith,3,2020-12-30,3000
+65,IBM,Dollar($),John Smith,1,2020-12-25,10
+64,BNP Paribas,Euro(€),John Smith,2,2020-12-21,6049
+63,Google,Dollar($),Richard Bradley,3,2020-12-18,1000
+62,Google,Dollar($),John Smith,3,2020-12-14,1250
+61,Toyota,Dollar($),John Smith,3,2020-12-09,344
+60,Google,Dollar($),John Smith,3,2020-12-04,10230
+59,Google,Dollar($),Richard Bradley,3,2020-11-30,500
+58,British Airways,British Pence(p),John Smith,1,2020-11-26,444
+57,Google,Dollar($),John Smith,3,2020-11-23,75000
+56,British Airways,British Pence(p),Herbert Jackson,1,2020-11-19,25000
+55,IBM,Dollar($),Herbert Jackson,1,2020-11-15,25000
+54,IBM,Dollar($),Herbert Jackson,1,2020-11-09,1543
+53,Tesco,British Pence(p),Herbert Jackson,1,2020-11-04,8523
+52,Tesco,British Pence(p),Herbert Jackson,1,2020-10-29,45600
+51,British Airways,British Pence(p),Herbert Jackson,1,2020-10-26,2342
+50,Google,Dollar($),John Smith,3,2020-10-21,20000
+49,The New York Times,Dollar($),John Smith,3,2020-10-15,4223
+48,Google,Dollar($),John Smith,3,2020-10-12,150
+47,Tesco,British Pence(p),John Smith,1,2020-10-08,854
+46,The New York Times,Dollar($),John Smith,3,2020-10-05,5000
+45,Google,Dollar($),John Smith,3,2020-09-30,3000
+44,IBM,Dollar($),John Smith,1,2020-09-27,10
+43,BNP Paribas,Euro(€),John Smith,2,2020-09-21,6049
+42,Google,Dollar($),Richard Bradley,3,2020-09-17,1000
+41,Google,Dollar($),John Smith,3,2020-09-14,1250
+40,Toyota,Dollar($),John Smith,3,2020-09-10,344
+39,Google,Dollar($),John Smith,3,2020-09-08,10230
+38,Google,Dollar($),Richard Bradley,3,2020-09-07,500
+37,British Airways,British Pence(p),John Smith,1,2020-09-03,444
+36,Google,Dollar($),John Smith,3,2020-08-31,75000
+35,British Airways,British Pence(p),Herbert Jackson,1,2020-08-30,24000
+34,IBM,Dollar($),Herbert Jackson,1,2020-08-27,25000
+33,IBM,Dollar($),Herbert Jackson,1,2020-08-24,1543
+32,Tesco,British Pence(p),Richard Bradley,1,2020-08-20,8523
+31,Tesco,British Pence(p),Richard Bradley,1,2020-08-17,45600
+30,British Airways,British Pence(p),Herbert Jackson,1,2020-08-13,2342
+29,British Airways,British Pence(p),Frank Denzel,1,2020-08-10,50000
+28,IBM,Dollar($),Herbert Jackson,1,2020-08-06,25000
+27,IBM,Dollar($),Frank Denzel,1,2020-08-03,1543
+26,Tesco,British Pence(p),Herbert Jackson,1,2020-07-31,8523
+25,Tesco,British Pence(p),Elric Crofton,1,2020-07-30,45600
+24,British Airways,British Pence(p),John Smith,1,2020-07-27,2342
+23,Google,Dollar($),Richard Bradley,3,2020-07-24,3452
+22,The New York Times,Dollar($),Frank Denzel,3,2020-07-22,84260
+21,Google,Dollar($),John Smith,3,2020-07-19,256
+20,The New York Times,Dollar($),Herbert Jackson,3,2020-07-16,9531
+19,Google,Dollar($),Elric Crofton,3,2020-07-12,1024
+18,Google,Dollar($),Elric Crofton,3,2020-06-12,800
+17,British Airways,British Pence(p),Frank Denzel,3,2020-06-02,500
+16,The New York Times,Dollar($),Richard Bradley,3,2020-05-23,10000
+15,Toyota,Dollar($),Herbert Jackson,2,2020-05-13,500
+14,Google,Dollar($),John Smith,2,2020-05-03,7500
+13,British Airways,British Pence(p),Elric Crofton,2,2020-04-23,4500
+12,The New York Times,Dollar($),Frank Denzel,1,2020-04-13,50000
+11,Toyota,Dollar($),Richard Bradley,1,2020-04-03,1100
+10,Google,Dollar($),Herbert Jackson,1,2020-03-24,3500
+9,British Airways,British Pence(p),John Smith,3,2020-03-14,7100
+8,The New York Times,Dollar($),John Bush,3,2020-03-04,30000
+7,Toyota,Dollar($),John Bush,3,2020-02-23,2500
+6,Google,Dollar($),Elric Crofton,2,2020-02-13,3100
+5,British Airways,British Pence(p),Frank Denzel,2,2020-02-03,250
+4,The New York Times,Dollar($),Richard Bradley,1,2020-01-24,45000
+3,Toyota,Dollar($),Herbert Jackson,1,2020-01-14,5000
+2,Google,Dollar($),John Bush,3,2020-01-04,1490
+1,Google,Dollar($),John Bush,3,2019-12-25,500
