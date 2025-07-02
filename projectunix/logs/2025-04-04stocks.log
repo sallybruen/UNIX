@@ -1,0 +1,90 @@
+
+04-04-2025 10:35:11 Checking start year and end year values.
+
+04-04-2025 10:35:11 Start year and end year are valid. Processing stocks files to be consolidated.
+
+04-04-2025 10:35:11 Error: No stock files found in the current directory.
+
+04-04-2025 10:39:32 Reading stock files from clone directory.
+
+04-04-2025 10:39:32 README.md not moved (not a CSV file).
+
+04-04-2025 10:39:32 apple_daily.csv moved.
+
+04-04-2025 10:39:32 facebook_daily.csv moved.
+
+04-04-2025 10:39:32 nasdaq_daily.csv moved.
+
+04-04-2025 10:39:32 netflix_daily.csv moved.
+
+04-04-2025 10:39:32 twitter_daily.csv moved.
+
+04-04-2025 10:39:32 yahoo_daily.csv moved.
+
+04-04-2025 10:39:32 Valid stock files moved to new directory.
+
+04-04-2025 10:41:06 Reading stock files from clone directory.
+
+04-04-2025 10:41:06 Error: No stock files found in the current directory.
+
+04-04-2025 10:42:37 Checking start year and end year values.
+
+04-04-2025 10:42:37 Error: Start year or end year are not valid numbers. Files not consolidated.
+
+04-04-2025 10:42:57 Checking start year and end year values.
+
+04-04-2025 10:42:57 Start year and end year are valid. Processing stocks files to be consolidated.
+
+04-04-2025 10:42:57 apple file processed.
+
+04-04-2025 10:42:57 facebook file processed.
+
+04-04-2025 10:42:57 nasdaq file processed.
+
+04-04-2025 10:42:57 netflix file processed.
+
+04-04-2025 10:42:57 twitter file processed.
+
+04-04-2025 10:42:57 yahoo file processed.
+
+04-04-2025 10:42:57 File consolidation completed.
+
+04-04-2025 10:52:23 Checking start year and end year values.
+
+04-04-2025 10:52:23 Error: Start year is greater than end year. Files are consolidated.
+
+04-04-2025 10:52:34 Checking start year and end year values.
+
+04-04-2025 10:52:34 Start year and end year are valid. Processing stocks files to be consolidated.
+
+04-04-2025 10:52:34 apple file processed.
+
+04-04-2025 10:52:34 facebook file processed.
+
+04-04-2025 10:52:34 nasdaq file processed.
+
+04-04-2025 10:52:34 netflix file processed.
+
+04-04-2025 10:52:34 twitter file processed.
+
+04-04-2025 10:52:34 yahoo file processed.
+
+04-04-2025 10:52:34 File consolidation completed.
+
+04-04-2025 10:52:51 Checking start year and end year values.
+
+04-04-2025 10:52:51 Start year and end year are valid. Processing stocks files to be consolidated.
+
+04-04-2025 10:52:51 apple file processed.
+
+04-04-2025 10:52:51 facebook file processed.
+
+04-04-2025 10:52:51 nasdaq file processed.
+
+04-04-2025 10:52:51 netflix file processed.
+
+04-04-2025 10:52:51 twitter file processed.
+
+04-04-2025 10:52:51 yahoo file processed.
+
+04-04-2025 10:52:51 File consolidation completed.
